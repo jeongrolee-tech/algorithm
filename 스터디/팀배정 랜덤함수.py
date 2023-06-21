@@ -2,11 +2,9 @@ import random
 
 members = ['river', 'Tommy_Kim', '누리', '박필', '코난', 'gogoodcode', '우영']
 presentation = [
-    'https://leetcode.com/problems/rotate-image/',
-    'https://leetcode.com/problems/pascals-triangle/',
-    'https://leetcode.com/problems/single-number/',
-    'https://leetcode.com/problems/kth-smallest-element-in-a-bst/',
-    'https://leetcode.com/problems/fizz-buzz/'
+    'https://school.programmers.co.kr/learn/courses/30/lessons/17683',
+    'https://school.programmers.co.kr/learn/courses/30/lessons/60058',
+    'https://school.programmers.co.kr/learn/courses/30/lessons/64062',
 ]
 
 random.shuffle(members)
