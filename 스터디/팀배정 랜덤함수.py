@@ -1,10 +1,10 @@
 import random
 
-members = ['누리', '박필', '요한', 'gogoodcode', '새우', '지니', '잡아라', '김밥', 'ㅎㅇㄹ']
+members = ['박필', '요한', 'gogoodcode', '새우', '지니', '잡아라', '김밥', 'ㅎㅇㄹ']
 presentation = [
-    'https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=featured-list&envId=top-interview-questions',
-    'https://leetcode.com/problems/majority-element/?envType=featured-list&envId=top-interview-questions',
-    'https://leetcode.com/problems/top-k-frequent-elements/?envType=featured-list&envId=top-interview-questions'
+'https://school.programmers.co.kr/learn/courses/30/lessons/72413',
+'https://school.programmers.co.kr/learn/courses/30/lessons/67259',
+'https://school.programmers.co.kr/learn/courses/30/lessons/60057'
 ]
 
 random.shuffle(members)
