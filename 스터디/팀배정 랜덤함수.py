@@ -2,9 +2,9 @@ import random
 
 members = ['박필', '요한', 'gogoodcode', '새우', '지니', '잡아라', '김밥', 'ㅎㅇㄹ']
 presentation = [
-'https://school.programmers.co.kr/learn/courses/30/lessons/72413',
-'https://school.programmers.co.kr/learn/courses/30/lessons/67259',
-'https://school.programmers.co.kr/learn/courses/30/lessons/60057'
+    'https://leetcode.com/problems/merge-two-sorted-lists/?envType=featured-list&envId=top-interview-questions',
+    'https://leetcode.com/problems/unique-paths/?envType=featured-list&envId=top-interview-questions',
+    'https://leetcode.com/problems/excel-sheet-column-number/?envType=featured-list&envId=top-interview-questions'
 ]
 
 random.shuffle(members)
