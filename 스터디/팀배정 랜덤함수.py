@@ -1,10 +1,9 @@
 import random
-
-members = ['박필', '요한', 'gogoodcode', '새우', '지니', '잡아라', '김밥', 'ㅎㅇㄹ']
+substitutes = ['공부공부', '자빔', '우영', '잡아라', '요한', 'gogoodcode']
+members = ['박필', '새우', '지니', '김밥']
 presentation = [
-    'https://leetcode.com/problems/merge-two-sorted-lists/?envType=featured-list&envId=top-interview-questions',
-    'https://leetcode.com/problems/unique-paths/?envType=featured-list&envId=top-interview-questions',
-    'https://leetcode.com/problems/excel-sheet-column-number/?envType=featured-list&envId=top-interview-questions'
+    'https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/?envType=featured-list&envId=top-interview-questions',
+    'https://leetcode.com/problems/flatten-nested-list-iterator/?envType=featured-list&envId=top-interview-questions',
 ]
 
 random.shuffle(members)
